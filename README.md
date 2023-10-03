@@ -8,7 +8,9 @@ This repository shows a possible implementation way of my tasks from university.
 Here's a quick summary of the points I achieved:
 
 P1: 25/30
+
 P2: 19/30
+
 P3: 29/30
 
 Overall: 73/90
